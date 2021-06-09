@@ -1,0 +1,46 @@
+body{background-color: rgb(116, 116, 116);}
+
+.corpo{
+    width: 17.5em;
+    height: 30em;
+    background-color: rgb(17, 6, 49);
+    float: left;
+    margin-left: 33em;
+    margin-top: 4em;
+    border-radius: 2em;
+}
+
+#tela{
+    background-color: rgb(20, 22, 22);
+    float: left;
+    margin-left: -16.3em;
+    margin-top: 6em;
+    width: 15em;
+    height: 25em;
+}
+
+.btnL{
+    height: 3em;
+    width: 0.1em;
+    float: left;
+    margin-top: 10em;
+    background-color: rgb(35, 6, 73);
+}.btnL:hover{background-color: rgb(112, 28, 223);}
+
+.btnA{
+    background-color: rgb(35, 6, 73);
+    float: left;
+    width: 0.1em;
+    height: 2em;
+    margin-left: -17.7em;
+    margin-top: 10em;
+}.btnA:hover{background-color: rgb(112, 28, 223);}
+
+.btnD{
+    background-color: rgb(35, 6, 73);
+    float: left;
+    width: 0.1em;
+    height: 2em;
+    margin-left: -17.7em;
+    margin-top: 13em;
+}.btnD:hover{background-color: rgb(112, 28, 223);}
